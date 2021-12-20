@@ -1,5 +1,5 @@
-### Hi there 👋, Ahmed Jaffar
-#### Computer Science Student
+### Hi there 👋
+
 ![Computer Science Student](https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true)
 
 I'm Ahmed Jaffar from Toronto, a Computer Science student who is a CSS & JavaScript enthusiast and an Avid open-sourcer! I'm currently studying at the University Of Western Ontario.
