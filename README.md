@@ -14,6 +14,5 @@ Skills: JS / REACT / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaffar1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaffar1&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/ajaffar1)  
