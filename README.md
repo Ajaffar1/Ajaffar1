@@ -8,7 +8,7 @@ I'm Ahmed Jaffar from Toronto, a Computer Science student who is a CSS & JavaScr
 
 Skills: JS / REACT / HTML / CSS 
 
-- 🔭 I’m currently working on iOS applications 
+- 🔭 I’m currently working on developing a blockchain integrated game with working tokenomics. 
 - 🌱 I’m currently learning Machine Learning  
 
 
