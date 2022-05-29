@@ -4,9 +4,9 @@
 
 ### Hey there 👋
 
-I'm Ahmed Jaffar from Toronto, a Computer Science student who is a CSS & JavaScript enthusiast and an Avid open-sourcer! I'm currently studying at the University Of Western Ontario.
+I'm Ahmed Jaffar from Toronto, a Computer Science student who is a Web3 enthusiast and an Avid open-sourcer! I'm currently studying at the University Of Western Ontario.
 
-Skills: JS / REACT / HTML / CSS 
+Skills: JS / REACT / Java / Python / Solidity 
 
 - 🔭 I’m currently working on developing a blockchain integrated game with working tokenomics. 
 - 🌱 I’m currently learning Machine Learning  
