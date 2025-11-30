@@ -4,12 +4,9 @@
 
 ### Hey there 👋
 
-I'm Ahmed Jaffar from Toronto, a Computer Science student who is a Web3 enthusiast and an Avid open-sourcer! I'm currently studying at the University Of Western Ontario.
+I'm Ahmed Jaffar from Toronto, a Computer Science graduate who is a Web3 enthusiast and an Avid open-sourcer! 
 
-Skills: JS / REACT / Java / Python / Solidity 
-
-- 🔭 I’m currently working on developing a blockchain integrated game with working tokenomics. 
-- 🌱 I’m currently learning Machine Learning  
+Feel free to connect!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajaffar1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ahmed-Jaffar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jamal.jaffar.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_ajaffar/)  
