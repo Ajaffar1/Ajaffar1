@@ -1,6 +1,6 @@
 
 
-![Computer Science Student](https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true)
+![Computer Science Graduate](https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true)
 
 ### Hey there 👋
 
