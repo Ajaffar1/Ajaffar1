@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <img src="https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true" alt="Ahmed Jaffar" width="150" style="border-radius: 50%;" />
 
   <br/>
 
