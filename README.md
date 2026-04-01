@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true" alt="Ahmed Jaffar" width="180" style="border-radius: 50%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Ahmed%20Jaffar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20TMT%20Analyst%20%40%20Deloitte%20%C2%B7%20Toronto&descAlignY=58&descSize=18&descColor=aaaaaa" alt="Header" width="100%"/>
 
-  <h1>Ahmed Jaffar</h1>
-  <h3>Senior TMT Analyst @ Deloitte · Toronto, Canada</h3>
+  <img src="https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true" alt="Ahmed Jaffar" width="150" style="border-radius: 50%; margin-top: -10px;" />
+
+  <br/>
 
   <p>
     <a href="https://github.com/ajaffar1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -42,4 +43,6 @@ Beyond my day job, I'm a passionate **Web3 enthusiast** and avid open-sourcer, a
 
 <div align="center">
   <i>Open to collaborating on Web3 projects and tools that help founders build smarter. Let's connect!</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" alt="Footer" width="100%"/>
 </div>
