@@ -1,16 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Ahmed%20Jaffar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20TMT%20Analyst%20%40%20Deloitte%20%C2%B7%20Toronto&descAlignY=58&descSize=18&descColor=aaaaaa" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1b4a&height=260&section=header&text=Ahmed%20Jaffar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20TMT%20Analyst%20%40%20Deloitte%20%C2%B7%20Toronto%2C%20Canada&descAlignY=60&descSize=20&descColor=86b4ff" alt="Header" width="100%"/>
 
-  <img src="https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true" alt="Ahmed Jaffar" width="150" style="border-radius: 50%; margin-top: -10px;" />
+<div align="center">
+
+  <img src="https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true" alt="Ahmed Jaffar" width="150" style="border-radius: 50%;" />
 
   <br/>
 
-  <p>
-    <a href="https://github.com/ajaffar1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/Ahmed-Jaffar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/_ajaffar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://www.facebook.com/jamal.jaffar.90"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  </p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=86B4FF&center=true&vCenter=true&width=600&lines=Senior+TMT+Analyst+%40+Deloitte;Helping+Startups+Raise+Non-Dilutive+Funding;Web3+Enthusiast+%26+Open-Sourcer;Based+in+Toronto%2C+Canada)](https://git.io/typing-svg)
+
+  <br/>
+
+  <a href="https://github.com/ajaffar1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/Ahmed-Jaffar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/_ajaffar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/jamal.jaffar.90"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
 </div>
 
 ---
@@ -35,14 +39,18 @@ Beyond my day job, I'm a passionate **Web3 enthusiast** and avid open-sourcer, a
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaffar1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaffar1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaffar1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaffar1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaffar1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <i>Open to collaborating on Web3 projects and tools that help founders build smarter. Let's connect!</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" alt="Footer" width="100%"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4a,50:1a1a2e,100:0d1117&height=140&section=footer" alt="Footer" width="100%"/>
