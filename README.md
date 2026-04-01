@@ -1,17 +1,45 @@
+<div align="center">
+  <img src="https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true" alt="Ahmed Jaffar" width="180" style="border-radius: 50%;" />
 
+  <h1>Ahmed Jaffar</h1>
+  <h3>Senior TMT Analyst @ Deloitte · Toronto, Canada</h3>
 
-![Computer Science Graduate](https://github.com/Ajaffar1/Ajaffar1/blob/main/Screen%20Shot%202021-12-20%20at%204.52.45%20AM.png?raw=true)
+  <p>
+    <a href="https://github.com/ajaffar1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/Ahmed-Jaffar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/_ajaffar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.facebook.com/jamal.jaffar.90"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  </p>
+</div>
 
-### Hey there 👋
+---
 
-I'm Ahmed Jaffar from Toronto, a Computer Science graduate who is a Web3 enthusiast and an Avid open-sourcer! 
+### About Me
 
-Feel free to connect!
+I'm a **Senior TMT (Technology, Media & Telecommunications) Analyst at Deloitte**, based in Toronto. My work sits at the intersection of finance and innovation — I specialize in helping startups and growth-stage companies **raise non-dilutive funding**, unlocking capital that lets founders scale without giving up equity.
 
+Beyond my day job, I'm a passionate **Web3 enthusiast** and avid open-sourcer, always exploring what's next at the frontier of decentralized technology.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajaffar1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ahmed-Jaffar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jamal.jaffar.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_ajaffar/)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaffar1)](https://github.com/anuraghazra/github-readme-stats)
+### What I Do
 
+- **Non-Dilutive Funding Strategy** — Grants, SR&ED, government incentives, and innovation programs for startups
+- **TMT Advisory** — Market analysis, competitive intelligence, and strategic insights across tech, media & telecom
+- **Web3 & Blockchain** — Keeping a close eye on DeFi, NFTs, and the evolving decentralized ecosystem
+- **Open Source** — Contributing to and building in the open whenever possible
 
-![Profile views](https://gpvc.arturio.dev/ajaffar1)  
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaffar1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaffar1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+</div>
+
+---
+
+<div align="center">
+  <i>Open to collaborating on Web3 projects and tools that help founders build smarter. Let's connect!</i>
+</div>
