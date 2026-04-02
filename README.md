@@ -11,8 +11,6 @@
 
   <a href="https://github.com/ajaffar1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/ahmedjjaffar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/_ajaffar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/jamal.jaffar.90"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 </div>
 
@@ -39,9 +37,7 @@ Beyond my day job, I'm a passionate **Web3 enthusiast** and avid open-sourcer, a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaffar1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaffar1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</div>
-
+ 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaffar1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
