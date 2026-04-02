@@ -35,9 +35,7 @@ Beyond my day job, I'm a passionate **Web3 enthusiast** and avid open-sourcer, a
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaffar1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="160"/>
- 
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaffar1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
