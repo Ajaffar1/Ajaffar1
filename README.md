@@ -5,7 +5,7 @@
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=86B4FF&center=true&vCenter=true&width=600&lines=Senior+TMT+Analyst+%40+Deloitte;Helping+Startups+Raise+Non-Dilutive+Funding;Web3+Enthusiast+%26+Open-Sourcer;Based+in+Toronto%2C+Canada)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=86B4FF&center=true&vCenter=true&width=600&lines=Manager+%40+Deloitte;Helping+Startups+Raise+Non-Dilutive+Funding;Web3+Enthusiast+%26+Open-Sourcer;Based+in+Toronto%2C+Canada)](https://git.io/typing-svg)
 
   <br/>
 
@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm a **Senior TMT (Technology, Media & Telecommunications) Analyst at Deloitte**, based in Toronto. My work sits at the intersection of finance and innovation — I specialize in helping startups and growth-stage companies **raise non-dilutive funding**, unlocking capital that lets founders scale without giving up equity.
+I'm a ** TMT (Technology, Media & Telecommunications) Manager at Deloitte**, based in Toronto. My work sits at the intersection of finance and innovation — I specialize in helping startups and growth-stage companies **raise non-dilutive funding**, unlocking capital that lets founders scale without giving up equity.
 
 Beyond my day job, I'm a passionate **Web3 enthusiast** and avid open-sourcer, always exploring what's next at the frontier of decentralized technology.
 
