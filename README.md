@@ -34,7 +34,7 @@ Currently curious about **AI, data science, and decentralized systems**.
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaffar1&bg_color=0d1117&color=94a3b8&line=2dd4bf&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Ahmed's recent GitHub contribution activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajaffar1&theme=github_dark" width="100%" alt="Ahmed’s GitHub contribution timeline" />
 
 <br />
 
