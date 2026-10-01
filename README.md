@@ -12,8 +12,6 @@
 &nbsp;
 <a href="https://github.com/Ajaffar1?tab=followers"><img src="https://img.shields.io/github/followers/Ajaffar1?style=for-the-badge&label=Followers&color=2DD4BF&labelColor=0D1117&logo=github&logoColor=2DD4BF" alt="GitHub followers" /></a>
 
-<br /><br />
-
 Manager at **Deloitte**, connecting technology with business.<br />
 CS grad from **Western University** · Former co-founder of **Fibonacci IT**<br />
 Currently curious about **AI, data science, and decentralized systems**.
