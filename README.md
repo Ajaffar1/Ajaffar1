@@ -1,61 +1,45 @@
 <div align="center">
 
-# Ahmed Jaffar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163a42,100:2dd4bf&height=230&section=header&text=Ahmed%20Jaffar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Technology%20%C2%B7%20Business%20%C2%B7%20Possibility&descAlignY=58&descSize=18" width="100%" alt="Ahmed Jaffar | Technology · Business · Possibility" />
 
-### Builder · Strategist · Technologist
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=2DD4BF&center=true&vCenter=true&width=600&height=45&lines=Manager+at+Deloitte;Curious+by+default.+Builder+at+heart.;Exploring+AI%2C+data+%26+decentralized+tech" alt="Manager at Deloitte. Curious by default. Builder at heart. Exploring AI, data and decentralized tech." /></a>
 
-Manager at Deloitte · Computer Science, Western University · Former co-founder, Fibonacci IT
+<br />
 
-**Connecting technical depth with business perspective.**
+<a href="https://ahmedjaffar.ca"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" alt="Personal website" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ahmedjjaffar/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="Connect on LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/Ajaffar1?tab=followers"><img src="https://img.shields.io/github/followers/Ajaffar1?style=for-the-badge&label=Followers&color=2DD4BF&labelColor=0D1117&logo=github&logoColor=2DD4BF" alt="GitHub followers" /></a>
 
-[Website](https://ahmedjaffar.ca) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/ahmedjjaffar/) &nbsp; / &nbsp; [Projects](#selected-projects)
+<br /><br />
 
-</div>
+Manager at **Deloitte**, connecting technology with business.<br />
+CS grad from **Western University** · Former co-founder of **Fibonacci IT**<br />
+Currently curious about **AI, data science, and decentralized systems**.
 
----
+<br />
 
-## A little about me
+### ⚡ Tools & technologies
 
-I'm a **Manager at Deloitte** with a background in technology, media, and telecommunications advisory. I work across business and technical perspectives, translating complex ideas into practical decisions.
+<img src="https://skillicons.dev/icons?i=python,js,java,solidity,html,css,git,github&theme=dark&perline=8" alt="Python, JavaScript, Java, Solidity, HTML, CSS, Git, and GitHub" />
 
-Before Deloitte, I co-founded **Fibonacci IT**, a blockchain venture where I worked on technical vision, smart contracts, and product roadmaps. My computer science degree from **Western University** keeps me close to the code. Today, I'm exploring **AI, data science, and tools that turn ideas into useful products**.
+<br /><br />
 
-## What I bring
+### 📊 GitHub at a glance
 
-| Technology | Business | Building |
-| :--- | :--- | :--- |
-| Python, SQL, JavaScript & Solidity | Technology advisory & strategic roadmaps | Founder experience & product thinking |
-| AI, NLP & data exploration | Research & cross-functional collaboration | Web applications & decentralized systems |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajaffar1&theme=github_dark" width="40%" alt="Ahmed's GitHub stats: stars, commits, pull requests, issues, and contributions" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Ajaffar1&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="56%" alt="Ahmed's GitHub contribution streak" />
 
-## Selected projects
+<br />
 
-A mix of product experiments, data projects, and earlier team builds.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaffar1&bg_color=0d1117&color=94a3b8&line=2dd4bf&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Ahmed's recent GitHub contribution activity" />
 
-| Project | What it's about |
-| :--- | :--- |
-| **[Avallon Cloud](https://github.com/Ajaffar1/Beta_Avallon)** | An AI-powered website generation platform exploring React, Next.js, TypeScript, and deployment automation. |
-| **[TwitterSentiment](https://github.com/Ajaffar1/TwitterSentiment)** | Exploring public opinion with Python, natural language processing, and sentiment visualization. |
-| **[World Bank Database](https://github.com/Ajaffar1/World-Bank-DataBase)** | A university team project: a Java desktop app for browsing and visualizing development data. |
-| **[CashinFruit](https://github.com/Ajaffar1/CashinFruit)** | A HackWestern 8 team project exploring personal finance and spending tracking. |
-| **[Personal website](https://github.com/Ajaffar1/personalwebsiteAJ)** | My portfolio and career timeline, built with semantic HTML, CSS, and vanilla JavaScript. |
+<br />
 
-[Explore more repositories →](https://github.com/Ajaffar1?tab=repositories)
+**Let's connect over technology, business, and new ideas.**
 
-## The journey so far
-
-- **Manager · Deloitte** | July 2026 to present
-- **Senior TMT Analyst · Flow, a Deloitte business** | September 2024 to June 2026
-- **TMT Analyst · Deloitte** | September 2022 to September 2024
-- **Co-founder · Fibonacci IT** | September 2020 to August 2022
-
----
-
-<div align="center">
-
-**Curious by default. Builder at heart.**
-
-Let's connect over technology, business, and new ideas.
-
-[Say hello on LinkedIn ↗](https://www.linkedin.com/in/ahmedjjaffar/) &nbsp; · &nbsp; [Explore my website ↗](https://ahmedjaffar.ca)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163a42,100:2dd4bf&height=110&section=footer" width="100%" alt="" />
 
 </div>
